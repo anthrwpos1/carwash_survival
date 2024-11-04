@@ -1,6 +1,10 @@
 .vs
+.idea
+.vsconfig
+*.sln
+UpgradeLog.htm
+*.user
+
 Intermediate
 Saved
-*.sln
-.idea
 Binaries
